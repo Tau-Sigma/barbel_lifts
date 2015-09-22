@@ -1,0 +1,14 @@
+base
+lattice
+ggplot2
+caret
+rpart
+foreach
+iterators
+doMC
+Matrix
+glmnet
+survival
+gbm
+plyr
+randomForest
